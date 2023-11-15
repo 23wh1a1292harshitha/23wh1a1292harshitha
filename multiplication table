@@ -1,0 +1,23 @@
+- #include<stdio.h>
+void main()
+{
+int n,i=1,sum=0,n1;
+printf("enter the number n");
+scanf("%d",&n);
+printf("multiplication table for %d\n",n);
+for(i=1;i,=10;i++)
+{
+printf("%d*%d=%d\n",n,i,n*1);
+}
+}
+
+- 👋 Hi, I’m @23wh1a1292harshitha
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+23wh1a1292harshitha/23wh1a1292harshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
